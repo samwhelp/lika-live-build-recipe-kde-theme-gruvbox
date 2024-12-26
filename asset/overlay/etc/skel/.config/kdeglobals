@@ -1,6 +1,6 @@
 [General]
 AllowKDEAppsToRememberWindowPositions=false
-ColorScheme=BreezeDark
+ColorScheme=Gruvbox
 XftSubPixel=none
 fixed=Monospace,12,-1,5,50,0,0,0,0,0
 font=Sans Serif,12,-1,5,50,0,0,0,0,0
@@ -9,10 +9,10 @@ smallestReadableFont=Sans Serif,10,-1,5,50,0,0,0,0,0
 toolBarFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=breeze-dark
+Theme=Gruvbox
 
 [KDE]
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=Gruvbox
 ShowDeleteCommand=true
 SingleClick=false
 widgetStyle=Breeze
